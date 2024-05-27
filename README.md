@@ -7,7 +7,7 @@ in different regions. To support its growth and make data-driven decisions, Fine
 Excel case studies (view only)
 https://1drv.ms/x/s!AsxZM2iE16Jwhg1lD8FG8pF4lag0
 
-Excel (view only)
+Excel dashboard (view only)
 https://1drv.ms/x/s!AsxZM2iE16JwhggC3MLazBhXir4F?e=EtJ3am
 
 ppt slides (view only)
