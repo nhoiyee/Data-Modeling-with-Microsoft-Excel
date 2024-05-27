@@ -4,6 +4,11 @@ Problem Statement:
 Finex Ventures is a fast-growing hardware company that sells various products to customers in various Cities
 in different regions. To support its growth and make data-driven decisions, Finex Ventures needs a data analytics team.
 
+Excel (view only)
+https://1drv.ms/x/s!AsxZM2iE16JwhggC3MLazBhXir4F?e=EtJ3am
+
+ppt slides (view only)
+https://1drv.ms/p/s!AsxZM2iE16JwhgqgtaVEepqOQ1av
 
 Tech Stacks:
 
